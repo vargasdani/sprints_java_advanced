@@ -2,11 +2,11 @@
 
 ## INTEGRANTES DO GRUPO:
 
-- Daniele Vargas de Lima  
-- Eduardo Shoiti Ishii Aragaki  
-- Marcela Silva Moreira  
-- Marcos Henrique Garcia Oliveira  
-- Nathalia Braga do Nascimento  
+Daniele Vargas de Lima - RM 99400
+Eduardo Shoiti Ishii Aragaki - RM 98704
+Marcela Silva Moreira - RM 552051
+Marcos Henrique Garcia Oliveira - RM 98348
+Nathalia Braga do Nascimento - RM 552221
 
 <hr />
 
